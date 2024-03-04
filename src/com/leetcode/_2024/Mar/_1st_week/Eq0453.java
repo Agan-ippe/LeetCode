@@ -1,4 +1,4 @@
-package com.leetcode._001st_Week;
+package com.leetcode._2024.Mar._1st_week;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;
