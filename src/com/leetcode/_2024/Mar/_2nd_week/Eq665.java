@@ -11,7 +11,7 @@ import sun.misc.PostVMInitHook;
 public class Eq665 {
     public static void main(String[] args) {
         int[] nums = {1, 2, 3, 2, 3};
-        int[] nums1 = {1, 1, 1};
+//        int[] nums1 = {1, 1, 1};
         System.out.println(checkPossibility(nums));
     }
 
