@@ -10,7 +10,7 @@ import java.util.Random;
  */
 public class Eq048 {
     public static void main(String[] args) {
-        int[][] matrix = new int[4][3];
+        int[][] matrix = new int[4][4];
         //二维数组的行数
         int rows = matrix.length;
         //列数
