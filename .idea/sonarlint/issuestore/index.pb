@@ -30,3 +30,5 @@ V
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 <
 LeetCode.iml,1\9\1921757b3c1b856ac4fbcf573bd708d51951d5ac
+^
+.src/com/leetcode/_2025/June/MianShi_01_09.java,1\7\17679138a16aae9809b1a6a1d37dc7706b2667b9
